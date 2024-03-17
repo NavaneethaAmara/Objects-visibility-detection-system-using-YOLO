@@ -40,7 +40,7 @@ This project will identify the objects that are infront the particular person. T
 
 
 ## Techstacks used 
-`opencv` , `yolo ` , `ml`
+`opencv` , `yolo ` , `ml`,`computer vision `
 
 ## How to run locally 
 1.Mount google drive first for a storage and GPU
