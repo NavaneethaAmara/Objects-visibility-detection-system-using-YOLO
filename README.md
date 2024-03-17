@@ -27,7 +27,7 @@ This project is based on the YOLO algorithm. The objects visibility detection sy
 
 ## Problem statement 
 Recently, the percentage of accidents has been rapidly increasing. There may be different reasons for thiese accidents. but the main reason of this accidents is the unvisibility of the other objects in the road while they are dribing. This system will identify and give information to the driver of a vehicleabout the closeness of the objects infornt hi.
-## About the project0
+## About the project
 This project will identify the objects that are infront the particular person. This system is mainly useful for reducing the accidents, traffic flow control,unnecessary stopings. 
 
 ## Technical implemntaion 
