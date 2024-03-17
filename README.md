@@ -50,8 +50,6 @@ This project will identify the objects that are infront the particular person. T
 5.get the working Directory
 6.upload the input video
 7.Get the output video with accuracy and  detected objects.
-![image](https://github.com/NavaneethaAmara/Objects-visibility-detection-system-using-YOLO/assets/158599129/d5f07327-7ddc-4dd0-8422-68ef9ab516e9)
-
 # What's next ?
 We are trying to implement the visibility identification for objects like trees, plants, polls and some other objects.
 ## Declaration
