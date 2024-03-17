@@ -2,7 +2,7 @@
     <b>
         <a href="https://www.google.com"> Objects visibility detection system using YOLO  </a><br>
     </b>
-    ⭐️ ... ⭐️ <br>
+    ⭐️IIITDM KANCHEEPURAM ⭐️ <br>
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
@@ -38,18 +38,20 @@ This project will identify the objects that are infront the particular person. T
 - running the output and getting the final results.
 
 ## Techstacks used 
-`nodejs` , `react` , `ml` , `tech stack 1` , `tech stack 2`
+`opencv` , `yolo ` , `ml`
 
 ## How to run locally 
-explain detailed steps to run your project locally , example to run a react application 
-- step 1 : clone the repo 
-```
-npm install
-npm start
-```
+1.Mount google drive first for a storage and GPU
+2.Clone Darknet GitHub repository
+3.Go to the darknet folder, enable GPU, then compile the entire thing
+4.Get the YOLO Weights file
+5.get the working Directory
+6.upload the input video
+7.Get the output video with accuracy and  detected objects.
+![image](https://github.com/NavaneethaAmara/Objects-visibility-detection-system-using-YOLO/assets/158599129/ce7e91a1-8acc-4ba9-8a94-67c7f0d7c169)
+
 
 # What's next ?
-tell the future plan that you have for the project , tell the updates that you would wish to bring
-
+We are trying to implement the visibility identification for objects like trees, plants, polls and some other objects.
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
