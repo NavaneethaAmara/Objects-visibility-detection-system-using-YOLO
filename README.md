@@ -20,8 +20,9 @@ This project is based on the YOLO algorithm. The objects visibility detection sy
 
 <div style="display: flex; flex-wrap: wrap;">
     ![Picture1](https://github.com/NavaneethaAmara/Objects-visibility-detection-system-using-YOLO/assets/158599129/a6bf338c-10eb-4cdf-a6f8-4d73913c9436)
-    <img src="C:\Users\Amara\Downloads\Picture2.jpg;">
-    <img src="C:\Users\Amara\Downloads\Picture3.jpg">
+   ![Picture2](https://github.com/NavaneethaAmara/Objects-visibility-detection-system-using-YOLO/assets/158599129/51272a99-dfc6-4342-83ca-3861df28cb43)
+    ![Picture3](https://github.com/NavaneethaAmara/Objects-visibility-detection-system-using-YOLO/assets/158599129/6304a385-57bf-4ee5-b8f7-206a609b23e7)
+
    
 
 ## Problem statement 
