@@ -5,7 +5,7 @@
     ⭐️IIITDM KANCHEEPURAM ⭐️ <br>
 </h1>
 
-# [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
+#  [`Demo video link `](https://youtu.be/4iL8Z5xj8RI)
 This project is based on the YOLO algorithm. The objects visibility detection system is used to identify the amount of percentage an object can be visible to the system in some coordinate. This system will detects the humans, animals, vehicles.
 ## Team Details
 `Team number` : VH154
