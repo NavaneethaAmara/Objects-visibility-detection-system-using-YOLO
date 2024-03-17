@@ -36,6 +36,8 @@ This project will identify the objects that are infront the particular person. T
 - I set up the googlr drive
 - upload the video
 - running the output and getting the final results.
+  ![flow chart yolo](https://github.com/NavaneethaAmara/Objects-visibility-detection-system-using-YOLO/assets/158599129/c6b74219-e98a-4aa8-8393-42d1a3bf9b00)
+
 
 ## Techstacks used 
 `opencv` , `yolo ` , `ml`
@@ -48,8 +50,7 @@ This project will identify the objects that are infront the particular person. T
 5.get the working Directory
 6.upload the input video
 7.Get the output video with accuracy and  detected objects.
-![image](https://github.com/NavaneethaAmara/Objects-visibility-detection-system-using-YOLO/assets/158599129/ce7e91a1-8acc-4ba9-8a94-67c7f0d7c169)
-
+![image](https://github.com/NavaneethaAmara/Objects-visibility-detection-system-using-YOLO/assets/158599129/d5f07327-7ddc-4dd0-8422-68ef9ab516e9)
 
 # What's next ?
 We are trying to implement the visibility identification for objects like trees, plants, polls and some other objects.
